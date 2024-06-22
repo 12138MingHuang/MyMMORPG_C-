@@ -55,4 +55,8 @@ ipch/
 *.psess
 *.vsp
 *.vspx
+*.vcxproj
+*.filters
+*.user
+*.sln
 
