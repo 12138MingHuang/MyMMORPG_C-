@@ -17,20 +17,10 @@ MyMMORPG 是一个自建的简单服务器框架，采用原生 C++ 实现。该
 ```plaintext
 MyMMORPG/
 │
-├── src/                # 源代码目录
-│   ├── server/         # 服务器相关代码
-│   ├── client/         # 客户端相关代码
-│   └── common/         # 公共模块
-│
-├── logs/               # 日志文件目录
-│
-├── protos/             # Protobuf 文件目录
-│
-├── UnityClient/        # Unity 客户端项目
-│
-├── README.md           # 项目介绍文件
-│
-└── CMakeLists.txt      # CMake 构建脚本
+├── Src/                # 源代码目录
+│   ├── Server/         # 服务器相关代码
+│   ├── Client/         # 客户端相关代码
+│   └── Data/         # 数据
 
 安装与使用
 前置条件
